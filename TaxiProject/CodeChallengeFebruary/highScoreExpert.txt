@@ -1,0 +1,3 @@
+bumm 50
+egon 20
+jane 25
